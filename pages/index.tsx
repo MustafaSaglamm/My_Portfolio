@@ -45,7 +45,7 @@ export default function Home() {
             </nav>
 
             <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-5 overflow-hidden md:h-96 md:w-96">
-              <Image alt="" src={profilepic} layout="fill" objectFit="cover" />
+              <Image alt="" src={profilepic} layout="fill" objectFit="cover" priority />
             </div>
 
             <div className="text-center p-10">
