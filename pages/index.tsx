@@ -13,11 +13,8 @@ import turkcell from 'public/147917987_3681576575251848_306174622475689.png'
 import javascript from '../public/Unofficial_JavaScript_logo_2.svg.png'
 import React from 'react'
 
-
 import { useState } from "react";
 import { lookup } from 'dns'
-
-
 
 
 export default function Home() {
@@ -99,6 +96,7 @@ export default function Home() {
                 <Image alt="" src={css3} width={100} height={100} />
                 <h3 className="text-lg font-medium pt-8 pb-2">CSS</h3>
                 <input id="disabled-range" type="range" value="75" disabled />
+
 
 
               </div>
