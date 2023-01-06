@@ -51,7 +51,7 @@ export default function Home() {
             <div className="text-center p-10">
               <h2 className="text-5xl py-2 text-teal-600 font-medium md:text-6xl dark:text-teal-300">Mustafa SAĞLAM</h2>
               <h3 className="text-2xl py-2 md:text-3xl dark:text-teal-50 ">Junior Frontend Developer</h3>
-              <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-teal-50">I actively develop myself in front end development and continue to learn. Also, I am a person who has communication skills, ability of persuasion and soul of teamwork. I work as a solution oriented. I have a long term career goals. I'm sure that i will reach the success with my skills and abilities. I chose the front end development because of the ability to quickly see the result of my work, as well as solve the tasks in various ways. </p>
+              <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-teal-50">I actively develop myself in front end development and continue to learn. Also, I am a person who has communication skills, ability of persuasion and soul of teamwork. I work as a solution oriented. I have a long term career goals. I am sure that i will reach the success with my skills and abilities. I chose the front end development because of the ability to quickly see the result of my work, as well as solve the tasks in various ways. </p>
             </div>
 
 
@@ -166,9 +166,9 @@ export default function Home() {
               </div>
             </div>
             <div className="flex justify-end gap-3 pt-5">
-              <a href="https://github.com/MustafaSaglamm" target="_blank"><AiFillGithub className=" scale-125 transform transition-all" /></a>
+              <a href="https://github.com/MustafaSaglamm" target="_blank" rel="noreferrer"><AiFillGithub className=" scale-125 transform transition-all" /></a>
 
-              <a href="https://www.linkedin.com/in/mustafa-sağlam" target="_blank"><AiFillLinkedin className=" scale-150 transform transition-all" /></a>
+              <a href="https://www.linkedin.com/in/mustafa-sağlam" target="_blank" rel="noreferrer"><AiFillLinkedin className=" scale-150 transform transition-all" /></a>
 
               <p className="text-end text-sm md:text-xl px-2"> Copyright © 2023 Mustafa SAGLAM. All Rights Reserved</p>
             </div>
